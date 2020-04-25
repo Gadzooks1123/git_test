@@ -1,2 +1,1 @@
-# git_test
-Test
+This is Dylan's first git project!!!
